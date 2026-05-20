@@ -3,6 +3,7 @@
 My name is Randy, and I am a retired engineer who worked in the defense industry for 30 years. Love to code interesting solutions.
 
 - 🔭 I’m currently working on data science projects to discover information from data.
+- 🔭 I’m currently working on an open-source intelligence project exploiting low-cost/free data.
 - 🌱 I’m currently learning more Python than I thought possible. Old Java & C++ guy.
 - 👯 I’m looking to collaborate on interesting projects.
 
