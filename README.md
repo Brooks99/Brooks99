@@ -7,7 +7,7 @@ My name is Randy, and I am an engineer with 30 years of experience in the defens
 - 🌱 I’m currently learning more Python than I thought possible. Old Java & C++ guy.
 - 👯 I’m looking to collaborate on interesting projects.
 
-Full Bio at [http://randallbrooks.com]
+Full Bio at [https://randallbrooks.com]
 
   
 <!--
